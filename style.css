@@ -1,0 +1,18 @@
+/* body {
+    
+    font-family: "Signika Negative", sans-serif;
+    color: white;
+    text-align: center;
+  }  */
+  
+  .ball {
+    color: rgba(60, 177, 14, 0.781);
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 3px solid rgba(255, 195, 30, 0.555);
+    border-radius: 50%;
+    pointer-events: none;
+  }
